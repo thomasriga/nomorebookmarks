@@ -1,0 +1,22 @@
+a { 
+        text-decoration: none;  
+	color: #6D929B;
+}
+a img { 
+        border: 0; 
+}
+th {
+	font: bold 8px "Trebuchet MS", Verdana, Arial, Helvetica,sans-serif;
+	color: #6D929B;
+	border:0;
+	text-transform: uppercase;
+	text-align: left;
+	background: #fff;
+}
+td {
+	border:0;
+	background: #fff;
+	color: #6D929B;
+        margin-left: 10px;
+        margin-right: 10px;
+}

@@ -1,0 +1,22 @@
+indexes:
+- kind: Bookmark
+  properties:
+  - name: __searchable_text_index
+  - name: counter
+    direction: desc
+
+- kind: Bookmark
+  properties:
+  - name: __searchable_text_index
+  - name: __searchable_text_index
+  - name: counter
+    direction: desc
+
+- kind: Bookmark
+  properties:
+  - name: __searchable_text_index
+  - name: __searchable_text_index
+  - name: __searchable_text_index
+  - name: counter
+    direction: desc
+
